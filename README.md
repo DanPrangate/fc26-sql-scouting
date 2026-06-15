@@ -58,4 +58,4 @@ four budget-tier Dream Team XIs with five-season development projections.
 `Multi-condition filtering` · `Position-based candidate ranking`
 
 ## Related Project
-This SQL analysis
+[This SQL analysis](https://github.com/DanPrangate/fc26-powerbi-dashboard)
